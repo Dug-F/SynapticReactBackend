@@ -1,5 +1,5 @@
 from django.urls import path
-from .views import csrf_token_view, test_cookie_view, RegisterView
+from .views import csrf_token_view, RegisterView
 # from .views import LoginView, LogoutView
 
 urlpatterns = [
